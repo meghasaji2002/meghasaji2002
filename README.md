@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghasaji2002&label=Profile%20views&color=0e75b6&style=flat" alt="meghasaji2002" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="[https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge](https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966)" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **React JS,Express JS,Node js,MongoDB**
 
